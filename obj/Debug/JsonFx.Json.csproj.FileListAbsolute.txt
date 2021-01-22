@@ -1,0 +1,18 @@
+C:\Users\marcu\OneDrive\Área de Trabalho\JSonFx.Json-master\bin\Debug\License.txt
+C:\Users\marcu\OneDrive\Área de Trabalho\JSonFx.Json-master\bin\Debug\Readme.txt
+C:\Users\marcu\OneDrive\Área de Trabalho\JSonFx.Json-master\bin\Debug\JsonFx.Json.XML
+C:\Users\marcu\OneDrive\Área de Trabalho\JSonFx.Json-master\bin\Debug\JsonFx.Json.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\JSonFx.Json-master\bin\Debug\JsonFx.Json.pdb
+C:\Users\marcu\OneDrive\Área de Trabalho\JSonFx.Json-master\obj\Debug\JsonFx.Json.csprojAssemblyReference.cache
+C:\Users\marcu\OneDrive\Área de Trabalho\JSonFx.Json-master\obj\Debug\JsonFx.Json.csproj.CoreCompileInputs.cache
+C:\Users\marcu\OneDrive\Área de Trabalho\JSonFx.Json-master\obj\Debug\JsonFx.Json.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\JSonFx.Json-master\obj\Debug\JsonFx.Json.pdb
+D:\JSonFx.Json-master\obj\Debug\JsonFx.Json.csprojAssemblyReference.cache
+D:\JSonFx.Json-master\obj\Debug\JsonFx.Json.dll
+D:\JSonFx.Json-master\obj\Debug\JsonFx.Json.pdb
+D:\JSonFx.Json-master\bin\Debug\License.txt
+D:\JSonFx.Json-master\bin\Debug\Readme.txt
+D:\JSonFx.Json-master\bin\Debug\JsonFx.Json.XML
+D:\JSonFx.Json-master\bin\Debug\JsonFx.Json.dll
+D:\JSonFx.Json-master\bin\Debug\JsonFx.Json.pdb
+D:\JSonFx.Json-master\obj\Debug\JsonFx.Json.csproj.CoreCompileInputs.cache

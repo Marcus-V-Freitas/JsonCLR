@@ -1,0 +1,9 @@
+D:\JSonFx.Json-master\bin\Release\License.txt
+D:\JSonFx.Json-master\bin\Release\Readme.txt
+D:\JSonFx.Json-master\bin\Release\JsonFx.Json.XML
+D:\JSonFx.Json-master\bin\Release\JsonFx.Json.dll
+D:\JSonFx.Json-master\bin\Release\JsonFx.Json.pdb
+D:\JSonFx.Json-master\obj\Release\JsonFx.Json.csproj.CoreCompileInputs.cache
+D:\JSonFx.Json-master\obj\Release\JsonFx.Json.dll
+D:\JSonFx.Json-master\obj\Release\JsonFx.Json.pdb
+D:\JSonFx.Json-master\obj\Release\JsonFx.Json.csprojAssemblyReference.cache
