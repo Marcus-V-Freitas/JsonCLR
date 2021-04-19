@@ -7,3 +7,12 @@ D:\JSonFx.Json-master\obj\Release\JsonFx.Json.csproj.CoreCompileInputs.cache
 D:\JSonFx.Json-master\obj\Release\JsonFx.Json.dll
 D:\JSonFx.Json-master\obj\Release\JsonFx.Json.pdb
 D:\JSonFx.Json-master\obj\Release\JsonFx.Json.csprojAssemblyReference.cache
+V:\JSonFx.Json\bin\Release\License.txt
+V:\JSonFx.Json\bin\Release\Readme.txt
+V:\JSonFx.Json\bin\Release\JsonFx.Json.XML
+V:\JSonFx.Json\bin\Release\JsonFx.Json.dll
+V:\JSonFx.Json\bin\Release\JsonFx.Json.pdb
+V:\JSonFx.Json\obj\Release\JsonFx.Json.csprojAssemblyReference.cache
+V:\JSonFx.Json\obj\Release\JsonFx.Json.csproj.CoreCompileInputs.cache
+V:\JSonFx.Json\obj\Release\JsonFx.Json.dll
+V:\JSonFx.Json\obj\Release\JsonFx.Json.pdb

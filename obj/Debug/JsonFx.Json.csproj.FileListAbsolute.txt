@@ -16,3 +16,12 @@ D:\JSonFx.Json-master\bin\Debug\JsonFx.Json.XML
 D:\JSonFx.Json-master\bin\Debug\JsonFx.Json.dll
 D:\JSonFx.Json-master\bin\Debug\JsonFx.Json.pdb
 D:\JSonFx.Json-master\obj\Debug\JsonFx.Json.csproj.CoreCompileInputs.cache
+V:\JSonFx.Json\bin\Debug\License.txt
+V:\JSonFx.Json\bin\Debug\Readme.txt
+V:\JSonFx.Json\bin\Debug\JsonFx.Json.XML
+V:\JSonFx.Json\bin\Debug\JsonFx.Json.dll
+V:\JSonFx.Json\bin\Debug\JsonFx.Json.pdb
+V:\JSonFx.Json\obj\Debug\JsonFx.Json.csprojAssemblyReference.cache
+V:\JSonFx.Json\obj\Debug\JsonFx.Json.csproj.CoreCompileInputs.cache
+V:\JSonFx.Json\obj\Debug\JsonFx.Json.dll
+V:\JSonFx.Json\obj\Debug\JsonFx.Json.pdb
