@@ -30,7 +30,7 @@
 
 using System;
 
-namespace JsonFx.Json
+namespace JsonCLR.Json
 {
 	/// <summary>
 	/// Allows classes to control their own JSON serialization

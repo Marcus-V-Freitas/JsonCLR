@@ -31,10 +31,10 @@
 using System;
 using System.Reflection;
 
-namespace JsonFx
+namespace JsonCLR
 {
 	/// <summary>
-	/// JsonFx metadata
+	/// JsonCLR metadata
 	/// </summary>
 	public sealed class About
 	{

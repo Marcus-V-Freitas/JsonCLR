@@ -30,7 +30,7 @@
 
 using System;
 
-namespace JsonFx.Json
+namespace JsonCLR.Json
 {
 	/// <summary>
 	/// Controls the deserialization settings for JsonReader

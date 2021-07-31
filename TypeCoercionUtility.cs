@@ -36,7 +36,7 @@ using System.Globalization;
 using System.Linq;
 using System.Reflection;
 
-namespace JsonFx.Json
+namespace JsonCLR.Json
 {
     /// <summary>
     /// Utility for forcing conversion between types

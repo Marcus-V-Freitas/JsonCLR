@@ -36,7 +36,7 @@ using System.IO;
 using System.Reflection;
 using System.Text;
 
-namespace JsonFx.Json
+namespace JsonCLR.Json
 {
     /// <summary>
     /// Reader for consuming JSON data

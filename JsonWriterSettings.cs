@@ -31,7 +31,7 @@
 using System;
 using System.IO;
 
-namespace JsonFx.Json
+namespace JsonCLR.Json
 {
 	/// <summary>
 	/// Represents a proxy method for serialization of types which do not implement IJsonSerializable

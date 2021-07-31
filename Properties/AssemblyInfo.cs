@@ -32,9 +32,9 @@ using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("JsonFx.Json")]
-[assembly: AssemblyDescription("JsonFx.NET JSON Serialization")]
-[assembly: AssemblyProduct("JsonFx.NET")]
+[assembly: AssemblyTitle("JsonCLR.Json")]
+[assembly: AssemblyDescription("JsonCLR.NET JSON Serialization")]
+[assembly: AssemblyProduct("JsonCLR.NET")]
 [assembly: AssemblyCopyright("Copyright © 2006-2009 Stephen M. McKamey. All rights reserved.")]
 [assembly: AssemblyCompany("http://jsonfx.net")]
 #if DEBUG

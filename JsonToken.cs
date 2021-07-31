@@ -30,7 +30,7 @@
 
 using System;
 
-namespace JsonFx.Json
+namespace JsonCLR.Json
 {
 	/// <summary>
 	/// Parse Tokens

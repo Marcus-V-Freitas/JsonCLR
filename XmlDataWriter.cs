@@ -35,9 +35,9 @@ using System.Text;
 using System.Xml;
 using System.Xml.Serialization;
 
-using JsonFx.Json;
+using JsonCLR.Json;
 
-namespace JsonFx.Xml
+namespace JsonCLR.Xml
 {
 	/// <summary>
 	/// An <see cref="IDataWriter"/> adapter for <see cref="XmlWriter"/>

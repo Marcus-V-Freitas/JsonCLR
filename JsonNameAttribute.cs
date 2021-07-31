@@ -31,7 +31,7 @@
 using System;
 using System.Reflection;
 
-namespace JsonFx.Json
+namespace JsonCLR.Json
 {
 	/// <summary>
 	/// Specifies the naming to use for a property or field when serializing

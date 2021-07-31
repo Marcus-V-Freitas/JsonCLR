@@ -8,8 +8,8 @@
     <ProjectGuid>{ABA23F14-7E47-43FE-A3E7-1FF97840C3FB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>JsonFx</RootNamespace>
-    <AssemblyName>JsonFx.Json</AssemblyName>
+    <RootNamespace>JsonCLR</RootNamespace>
+    <AssemblyName>JsonCLR</AssemblyName>
     <SccProjectName>
     </SccProjectName>
     <SccLocalPath>
@@ -33,7 +33,7 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <UseVSHostingProcess>false</UseVSHostingProcess>
-    <DocumentationFile>bin\Debug\JsonFx.Json.XML</DocumentationFile>
+    <DocumentationFile>bin\Debug\JsonCLR.xml</DocumentationFile>
     <NoWarn>1570,1571,1572,1573,1591,1592</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -44,14 +44,15 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <UseVSHostingProcess>false</UseVSHostingProcess>
-    <DocumentationFile>bin\Release\JsonFx.Json.XML</DocumentationFile>
+    <DocumentationFile>bin\Release\JsonCLR.xml</DocumentationFile>
     <NoWarn>1570,1571,1572,1573,1591,1592</NoWarn>
   </PropertyGroup>
   <PropertyGroup>
     <SignAssembly>true</SignAssembly>
   </PropertyGroup>
   <PropertyGroup>
-    <AssemblyOriginatorKeyFile>scga.pfx</AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -84,16 +85,7 @@
     <Compile Include="XmlDataWriter.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="License.txt">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Readme.txt">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
     <EmbeddedResource Include="Scripts\json2.js" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="scga.pfx" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

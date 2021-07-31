@@ -37,7 +37,7 @@ using System.IO;
 using System.Reflection;
 using System.Text;
 
-namespace JsonFx.Json
+namespace JsonCLR.Json
 {
     /// <summary>
     /// Writer for producing JSON data

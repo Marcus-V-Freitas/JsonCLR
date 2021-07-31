@@ -31,7 +31,7 @@
 using System;
 using System.Reflection;
 
-namespace JsonFx.Json
+namespace JsonCLR.Json
 {
 	/// <summary>
 	/// Specifies the name of the property which specifies if member should be serialized.
